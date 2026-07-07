@@ -267,6 +267,11 @@ h1 { margin-bottom: 0; font-size: 25px; line-height: 1.05; }
   font-size: 30px;
 }
 
+#updatedAt {
+  font-size: 25px;
+  line-height: 1.28;
+}
+
 .update-panel {
   display: flex;
   justify-content: space-between;
@@ -712,7 +717,96 @@ h1 { margin-bottom: 0; font-size: 25px; line-height: 1.05; }
 }
 
 @media (max-width: 760px) {
-  .content { padding: 16px; }
+  body {
+    background: #f5f7f3;
+  }
+
+  .app-shell {
+    display: block;
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    height: auto;
+    padding: 12px 12px 10px;
+    gap: 10px;
+    border-bottom: 1px solid rgba(255,255,255,0.12);
+    box-shadow: 0 14px 28px rgba(16, 35, 30, 0.22);
+  }
+
+  .brand-block {
+    gap: 10px;
+    padding-bottom: 10px;
+  }
+
+  .brand-mark {
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    font-size: 12px;
+  }
+
+  .brand-block .eyebrow {
+    margin-bottom: 3px;
+    font-size: 10px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .view-tabs {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .view-tab {
+    min-height: 38px;
+    padding: 0 6px;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 9px;
+  }
+
+  .section-nav {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding: 2px 0 4px;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+
+  .section-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .section-link {
+    flex: 0 0 168px;
+    scroll-snap-align: start;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  .section-link strong {
+    font-size: 12px;
+  }
+
+  .section-link em {
+    font-size: 11px;
+  }
+
+  .sidebar-note {
+    display: none;
+  }
+
+  .content {
+    padding: 14px 12px 24px;
+    gap: 14px;
+  }
+
   .topbar,
   .toolbar,
   .update-panel,
@@ -722,22 +816,374 @@ h1 { margin-bottom: 0; font-size: 25px; line-height: 1.05; }
     flex-direction: column;
     align-items: stretch;
   }
-  .topbar { min-height: auto; padding: 20px; }
-  .topbar h2 { font-size: 28px; }
+
+  .topbar {
+    min-height: auto;
+    padding: 18px;
+    border-radius: 16px;
+    gap: 16px;
+  }
+
+  .topbar .eyebrow {
+    font-size: 11px;
+  }
+
+  .topbar h2 {
+    margin-bottom: 10px;
+    font-size: 25px;
+    line-height: 1.18;
+  }
+
+  .hero-subtitle {
+    font-size: 14px;
+    line-height: 1.55;
+  }
+
   .actions,
   .filter-group,
-  .manual-actions { width: 100%; }
+  .manual-actions {
+    width: 100%;
+  }
+
   .primary-button,
   .ghost-button,
   .filter-chip,
   .open-button,
-  .secondary-button { flex: 1; }
+  .secondary-button {
+    flex: 1 1 0;
+    min-height: 44px;
+  }
+
   .search-box,
-  .section-nav,
   .status-grid,
-  .strategy-grid { grid-template-columns: 1fr; }
-  .search-box input { width: 100%; }
-  .job-panel-head { flex-direction: column; }
-  .fetch-status { text-align: left; }
-  .link-row > a { min-width: 0; }
+  .strategy-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .status-grid {
+    gap: 10px;
+  }
+
+  .metric {
+    min-height: 84px;
+    padding: 14px;
+    border-radius: 14px;
+  }
+
+  .metric span {
+    font-size: 12px;
+  }
+
+  .metric strong {
+    font-size: 25px;
+  }
+
+  .update-panel {
+    padding: 15px;
+    border-radius: 14px;
+  }
+
+  .update-panel strong {
+    font-size: 16px;
+  }
+
+  .update-panel p {
+    font-size: 13px;
+  }
+
+  .sync-grid {
+    min-width: 0;
+    grid-template-columns: 1fr;
+  }
+
+  .toolbar {
+    position: sticky;
+    top: 152px;
+    z-index: 10;
+    padding: 10px;
+    border-radius: 14px;
+    background: rgba(255,255,255,0.96);
+    backdrop-filter: blur(10px);
+  }
+
+  .search-box {
+    gap: 7px;
+  }
+
+  .search-box input {
+    width: 100%;
+    height: 44px;
+  }
+
+  .filter-group {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 7px;
+  }
+
+  .filter-chip {
+    min-width: 0;
+    height: 40px;
+    padding: 0 8px;
+    font-size: 12px;
+  }
+
+  .section-heading {
+    display: block;
+    margin-top: 8px;
+    padding: 16px 2px 2px;
+  }
+
+  .section-heading div {
+    align-items: flex-start;
+  }
+
+  .section-heading h3 {
+    font-size: 19px;
+    line-height: 1.2;
+  }
+
+  .section-heading p {
+    margin-top: 8px;
+    font-size: 13px;
+  }
+
+  .company-list {
+    gap: 14px;
+  }
+
+  .company-row {
+    border-radius: 16px;
+  }
+
+  .company-profile,
+  .job-panel {
+    padding: 16px;
+  }
+
+  .company-head {
+    align-items: flex-start;
+  }
+
+  .company-identity {
+    align-items: flex-start;
+  }
+
+  .logo-box {
+    width: 46px;
+    height: 46px;
+    border-radius: 13px;
+  }
+
+  .logo-box img {
+    width: 28px;
+    height: 28px;
+  }
+
+  .company-name {
+    font-size: 19px;
+    line-height: 1.2;
+  }
+
+  .rank-badge {
+    min-width: 42px;
+    height: 32px;
+    border-radius: 9px;
+    font-size: 13px;
+  }
+
+  .badge-row {
+    margin-top: 14px;
+  }
+
+  .summary {
+    font-size: 13px;
+  }
+
+  .role-list {
+    gap: 6px;
+  }
+
+  .role {
+    max-width: 100%;
+    min-height: 27px;
+    font-size: 11px;
+    line-height: 1.2;
+  }
+
+  .profile-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .link-button {
+    width: 100%;
+    min-height: 42px;
+  }
+
+  .source-host {
+    text-align: center;
+  }
+
+  .job-panel-head {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .fetch-status {
+    width: 100%;
+    text-align: left;
+  }
+
+  .source-line {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 6px 8px;
+  }
+
+  .source-line span {
+    grid-column: 1 / -1;
+  }
+
+  .source-line a {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .source-line code {
+    margin-left: 0;
+  }
+
+  .manual-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .checklist {
+    padding: 11px;
+    font-size: 13px;
+  }
+
+  .strategy-hero {
+    padding: 18px;
+    border-radius: 16px;
+  }
+
+  .strategy-hero h2,
+  .view-heading h2 {
+    font-size: 23px;
+    line-height: 1.18;
+  }
+
+  .strategy-score {
+    min-width: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+  }
+
+  .strategy-score strong {
+    font-size: 32px;
+  }
+
+  .strategy-card {
+    padding: 17px;
+    border-radius: 16px;
+  }
+
+  .strategy-card h3 {
+    font-size: 20px;
+  }
+
+  .strategy-card p,
+  .strategy-pitch {
+    font-size: 13px;
+  }
+
+  .mini-company-list a {
+    min-height: 44px;
+  }
+
+  .view-heading {
+    gap: 10px;
+  }
+
+  .links-table {
+    gap: 9px;
+  }
+
+  .link-row {
+    padding: 12px;
+    border-radius: 14px;
+    gap: 10px;
+  }
+
+  .link-row .company-identity {
+    align-items: center;
+  }
+
+  .link-row > a {
+    min-width: 0;
+    width: 100%;
+    min-height: 42px;
+  }
+
+  .link-status {
+    width: fit-content;
+  }
+}
+
+@media (max-width: 430px) {
+  .content {
+    padding-inline: 10px;
+  }
+
+  .topbar h2 {
+    font-size: 23px;
+  }
+
+  .status-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .metric {
+    min-height: 78px;
+    padding: 12px;
+  }
+
+  .metric strong {
+    font-size: 23px;
+  }
+
+  #updatedAt {
+    font-size: 20px;
+    line-height: 1.25;
+    overflow-wrap: anywhere;
+  }
+
+  .toolbar {
+    top: 146px;
+  }
+
+  .section-link {
+    flex-basis: 150px;
+  }
+
+  .company-profile,
+  .job-panel {
+    padding: 14px;
+  }
+
+  .company-name {
+    font-size: 18px;
+  }
+
+  .brand-block {
+    padding-bottom: 8px;
+  }
+
+  .view-tab {
+    font-size: 11px;
+  }
 }
