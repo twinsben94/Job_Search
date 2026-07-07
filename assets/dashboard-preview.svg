@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Career Radar dashboard preview">
+  <rect width="1280" height="720" fill="#eef1ee"/>
+  <rect x="40" y="36" width="260" height="648" rx="18" fill="#12251f"/>
+  <rect x="332" y="36" width="908" height="160" rx="18" fill="#ffffff"/>
+  <rect x="332" y="220" width="205" height="102" rx="14" fill="#ffffff"/>
+  <rect x="561" y="220" width="205" height="102" rx="14" fill="#ffffff"/>
+  <rect x="790" y="220" width="205" height="102" rx="14" fill="#ffffff"/>
+  <rect x="1019" y="220" width="221" height="102" rx="14" fill="#ffffff"/>
+  <rect x="332" y="350" width="908" height="132" rx="16" fill="#ffffff"/>
+  <rect x="332" y="510" width="908" height="132" rx="16" fill="#ffffff"/>
+  <circle cx="78" cy="82" r="22" fill="#ee9345"/>
+  <path d="M70 82h16m-8-8v16" stroke="#12251f" stroke-width="5" stroke-linecap="round"/>
+  <text x="112" y="78" fill="#f5fbf7" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Ryoungseob Kwon</text>
+  <text x="112" y="106" fill="#f5fbf7" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Career Radar</text>
+  <rect x="68" y="168" width="204" height="62" rx="12" fill="#203b33"/>
+  <rect x="68" y="248" width="204" height="62" rx="12" fill="#203b33"/>
+  <rect x="68" y="328" width="204" height="62" rx="12" fill="#203b33"/>
+  <rect x="68" y="408" width="204" height="62" rx="12" fill="#203b33"/>
+  <text x="90" y="204" fill="#f5fbf7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">GeoAI / Spatial AI</text>
+  <text x="90" y="284" fill="#f5fbf7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Consulting</text>
+  <text x="90" y="364" fill="#f5fbf7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Insurance Risk</text>
+  <text x="90" y="444" fill="#f5fbf7" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Food / Agro</text>
+  <text x="368" y="88" fill="#ee9345" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">TARGET COMPANY JOB OPENINGS</text>
+  <text x="368" y="130" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Career job tracker for official postings</text>
+  <text x="368" y="164" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="18">Official links, fit score, location, application period and source references in one dashboard.</text>
+  <rect x="1084" y="78" width="112" height="46" rx="12" fill="#1e6b57"/>
+  <text x="1112" y="107" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">Refresh</text>
+  <text x="368" y="260" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="15">Target companies</text>
+  <text x="368" y="300" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">24</text>
+  <text x="597" y="260" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="15">Job candidates</text>
+  <text x="597" y="300" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">Live</text>
+  <text x="826" y="260" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="15">Priority focus</text>
+  <text x="826" y="300" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">1st</text>
+  <text x="1055" y="260" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="15">Source visibility</text>
+  <text x="1055" y="300" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">On</text>
+  <text x="368" y="394" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">NAVER LABS</text>
+  <rect x="368" y="416" width="128" height="26" rx="13" fill="#eaf1f8"/>
+  <text x="386" y="435" fill="#2e5d92" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">1st focus</text>
+  <rect x="520" y="416" width="138" height="26" rx="13" fill="#fff2e4"/>
+  <text x="538" y="435" fill="#9a551d" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Seoul / Pangyo</text>
+  <rect x="368" y="456" width="330" height="10" rx="5" fill="#d9dfda"/>
+  <rect x="368" y="456" width="296" height="10" rx="5" fill="#1e6b57"/>
+  <text x="740" y="404" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="16">Official source</text>
+  <text x="740" y="436" fill="#1e6b57" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">recruit.naverlabs.com</text>
+  <text x="368" y="554" fill="#17201d" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">BCG Korea / BCG X</text>
+  <rect x="368" y="576" width="128" height="26" rx="13" fill="#eaf1f8"/>
+  <text x="386" y="595" fill="#2e5d92" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">1st focus</text>
+  <rect x="520" y="576" width="98" height="26" rx="13" fill="#fff2e4"/>
+  <text x="538" y="595" fill="#9a551d" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Seoul</text>
+  <rect x="368" y="616" width="330" height="10" rx="5" fill="#d9dfda"/>
+  <rect x="368" y="616" width="284" height="10" rx="5" fill="#1e6b57"/>
+  <text x="740" y="564" fill="#63716b" font-family="Segoe UI, Arial, sans-serif" font-size="16">Official source</text>
+  <text x="740" y="596" fill="#1e6b57" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">careers.bcg.com</text>
+</svg>

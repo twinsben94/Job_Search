@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Career Radar | Manual Job Check Hub</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="타겟 기업 내비게이션">
+        <div class="brand-block">
+          <span class="brand-mark">CR</span>
+          <div>
+            <p class="eyebrow">Ryoungseob Kwon</p>
+            <h1>Career Radar</h1>
+          </div>
+        </div>
+
+        <div class="view-tabs" role="tablist" aria-label="앱 화면">
+          <button class="view-tab active" type="button" data-view="dashboard">Dashboard</button>
+          <button class="view-tab" type="button" data-view="strategy">Strategy</button>
+          <button class="view-tab" type="button" data-view="links">Official Links</button>
+        </div>
+
+        <nav id="sectionNav" class="section-nav"></nav>
+
+        <div class="sidebar-note">
+          <strong>Manual-first app</strong>
+          <span>서버 크롤링 대신 공식 채용 링크를 빠르게 열고 직접 확인하는 지원 허브입니다.</span>
+        </div>
+      </aside>
+
+      <main class="content">
+        <section class="topbar">
+          <div class="hero-copy">
+            <p class="eyebrow">Manual job opening command center</p>
+            <h2>타겟 기업 채용공고를 빠르게 열고, 우선순위대로 확인하는 앱</h2>
+            <p class="hero-subtitle">공식 채용 사이트, 직무 적합도, 지원 전략, 링크 출처를 한 화면에 묶었습니다. 자동 크롤링 대신 공식 버튼을 눌러 최신 공고를 직접 확인하는 구조입니다.</p>
+          </div>
+          <div class="actions">
+            <button id="refreshButton" class="primary-button" type="button">스냅샷 새로고침</button>
+            <a class="ghost-button" href="https://github.com/twinsben94/Job_Search" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </section>
+
+        <section class="status-grid" aria-label="요약 지표">
+          <div class="metric">
+            <span>타겟 기업</span>
+            <strong id="companyCount">-</strong>
+          </div>
+          <div class="metric">
+            <span>공식 링크</span>
+            <strong id="jobCount">-</strong>
+          </div>
+          <div class="metric">
+            <span>1차 집중</span>
+            <strong id="focusCount">-</strong>
+          </div>
+          <div class="metric">
+            <span>링크 스냅샷</span>
+            <strong id="updatedAt">대기 중</strong>
+          </div>
+        </section>
+
+        <section id="updatePanel" class="update-panel"></section>
+
+        <section class="app-view active" data-view="dashboard">
+          <section class="toolbar" aria-label="필터">
+            <label class="search-box">
+              <span>검색</span>
+              <input id="searchInput" type="search" placeholder="기업, 직무, 지역, 키워드">
+            </label>
+            <div class="filter-group" role="group" aria-label="우선순위 필터">
+              <button class="filter-chip active" data-priority="all" type="button">전체</button>
+              <button class="filter-chip" data-priority="1차 집중" type="button">1차 집중</button>
+              <button class="filter-chip" data-priority="2차 집중" type="button">2차 집중</button>
+              <button class="filter-chip" data-priority="모니터링" type="button">모니터링</button>
+            </div>
+          </section>
+
+          <section id="companyList" class="company-list" aria-live="polite"></section>
+        </section>
+
+        <section class="app-view" data-view="strategy">
+          <div id="strategyBoard"></div>
+        </section>
+
+        <section class="app-view" data-view="links">
+          <div class="view-heading">
+            <div>
+              <p class="eyebrow">Official recruiting sources</p>
+              <h2>공식 채용 링크 빠른 확인</h2>
+            </div>
+            <a class="ghost-button" href="./data/companies.json" target="_blank" rel="noreferrer">링크 데이터 보기</a>
+          </div>
+          <div id="linksBoard"></div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

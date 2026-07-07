@@ -1,0 +1,270 @@
+{
+  "generatedAt": "2026-07-07T11:11:16.428Z",
+  "mode": "github-pages-snapshot",
+  "results": [
+    {
+      "id": "01_Target_Companies/01_GeoAI_SpatialAI/01_NAVER_LABS",
+      "name": "NAVER LABS",
+      "officialJobUrl": "https://recruit.naverlabs.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.310Z",
+      "elapsedMs": 118,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/01_POSCO_International",
+      "name": "POSCO International",
+      "officialJobUrl": "https://recruit.posco.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.400Z",
+      "elapsedMs": 13,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/01_GeoAI_SpatialAI/03_Kakao_Mobility",
+      "name": "Kakao Mobility",
+      "officialJobUrl": "https://kakaomobility.career.greetinghr.com/ko/home",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.313Z",
+      "elapsedMs": 23,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/02_Consulting_Strategy/01_BCG_Korea_BCG_X",
+      "name": "BCG Korea / BCG X",
+      "officialJobUrl": "https://careers.bcg.com/global/en/locations/korea",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.363Z",
+      "elapsedMs": 53,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/01_GeoAI_SpatialAI/06_Hanwha_Systems_SI_Analytics",
+      "name": "Hanwha Systems / SI Analytics",
+      "officialJobUrl": "https://www.hanwhain.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.349Z",
+      "elapsedMs": 41,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/06_Tridge",
+      "name": "Tridge",
+      "officialJobUrl": "https://careers.tridge.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.428Z",
+      "elapsedMs": 27,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/03_Insurance_Risk/01_Samsung_Fire_Marine",
+      "name": "Samsung Fire & Marine Insurance",
+      "officialJobUrl": "https://www.samsungcareers.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.383Z",
+      "elapsedMs": 12,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/02_Consulting_Strategy/02_McKinsey_Korea_Quantum",
+      "name": "McKinsey Korea / QuantumBlack",
+      "officialJobUrl": "https://www.mckinsey.com/careers/search-jobs",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.371Z",
+      "elapsedMs": 58,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/01_GeoAI_SpatialAI/02_NAVER_Cloud",
+      "name": "NAVER Cloud",
+      "officialJobUrl": "https://recruit.navercloudcorp.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.306Z",
+      "elapsedMs": 20,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/03_Insurance_Risk/04_Korean_Re",
+      "name": "Korean Re",
+      "officialJobUrl": "https://koreanre.recruiter.co.kr/career/home",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.395Z",
+      "elapsedMs": 13,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/01_GeoAI_SpatialAI/05_Samsung_SDS",
+      "name": "Samsung SDS",
+      "officialJobUrl": "https://www.samsungcareers.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.382Z",
+      "elapsedMs": 91,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/07_CJ_CheilJedang",
+      "name": "CJ CheilJedang",
+      "officialJobUrl": "https://recruit.cj.net/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.424Z",
+      "elapsedMs": 20,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/02_Samsung_Global_Research",
+      "name": "Samsung Global Research",
+      "officialJobUrl": "https://www.samsungsgr.com/careers.html?tab=2",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.422Z",
+      "elapsedMs": 29,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/02_Consulting_Strategy/03_Deloitte_Korea_CSE",
+      "name": "Deloitte Korea CSE / Risk Advisory",
+      "officialJobUrl": "https://join.deloitte.co.kr/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.373Z",
+      "elapsedMs": 27,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/03_Insurance_Risk/02_DB_Insurance",
+      "name": "DB Insurance",
+      "officialJobUrl": "https://dbgroup.recruiter.co.kr/career/home",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.387Z",
+      "elapsedMs": 13,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/02_Consulting_Strategy/04_EY_Hanyoung_CCaSS",
+      "name": "EY Hanyoung CCaSS",
+      "officialJobUrl": "https://www.ey.com/ko_kr/careers/job-search",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.379Z",
+      "elapsedMs": 30,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/03_Nongshim",
+      "name": "Nongshim",
+      "officialJobUrl": "https://recruit.nongshim.com/main/index",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.404Z",
+      "elapsedMs": 9,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/03_Insurance_Risk/06_NH_NongHyup_Property_Casualty",
+      "name": "NH NongHyup Property & Casualty",
+      "officialJobUrl": "https://recruit.nonghyup.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.401Z",
+      "elapsedMs": 18,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/02_Consulting_Strategy/05_Samjong_KPMG_ESG",
+      "name": "Samjong KPMG ESG",
+      "officialJobUrl": "https://career.kr.kpmg.com/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.382Z",
+      "elapsedMs": 19,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/03_Insurance_Risk/03_KB_Insurance",
+      "name": "KB Insurance",
+      "officialJobUrl": "https://kbinsure.recruiter.co.kr/app/jobnotice/list",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.393Z",
+      "elapsedMs": 14,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/01_GeoAI_SpatialAI/04_Coupang",
+      "name": "Coupang",
+      "officialJobUrl": "https://www.coupang.jobs/",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.347Z",
+      "elapsedMs": 57,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/04_Kurly",
+      "name": "Kurly",
+      "officialJobUrl": "https://kurly.career.greetinghr.com/ko/home",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.416Z",
+      "elapsedMs": 18,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/03_Insurance_Risk/05_Hyundai_Marine_Fire",
+      "name": "Hyundai Marine & Fire",
+      "officialJobUrl": "https://hi.recruiter.co.kr/career/home",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.398Z",
+      "elapsedMs": 16,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    },
+    {
+      "id": "01_Target_Companies/04_Food_Agro_Strategy/05_National_Assembly_Futures_Institute",
+      "name": "National Assembly Futures Institute",
+      "officialJobUrl": "https://www.nafi.re.kr/new/job.do",
+      "ok": false,
+      "statusCode": 0,
+      "fetchedAt": "2026-07-07T11:11:16.422Z",
+      "elapsedMs": 22,
+      "extractionNote": "자동 조회 실패: fetch failed",
+      "jobs": []
+    }
+  ]
+}
