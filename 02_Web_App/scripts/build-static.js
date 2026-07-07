@@ -6,7 +6,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const APP_DIR = path.resolve(__dirname, "..");
 const ROOT_DIR = path.resolve(APP_DIR, "..");
 const PUBLIC_DIR = path.join(APP_DIR, "public");
-const DOCS_DIR = path.join(ROOT_DIR, "docs");
+const DOCS_DIR = path.join(ROOT_DIR, "03_Github", "02_pages_site");
 const STATIC_DATA_DIR = path.join(DOCS_DIR, "data");
 
 async function main() {

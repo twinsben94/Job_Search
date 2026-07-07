@@ -29,9 +29,10 @@
 - Career Job Tracker 앱.
 - 로컬 실행, 정적 빌드, GitHub Pages 배포 방법은 02_Web_App/README.md 참고.
 
-4. docs
-- GitHub Pages 배포용 정적 사이트 산출물.
-- 예상 공개 URL: https://twinsben94.github.io/Job_Search/
+4. 03_Github
+- GitHub Pages 배포 산출물, 저장소 운영 문서, 배포 안내.
+- 실제 공개 앱 산출물은 03_Github/02_pages_site에 보관.
+- 공개 URL: https://twinsben94.github.io/Job_Search/
 
 정리 원칙:
 - 주요 전략/기업별 자료는 삭제하지 않고 보존했습니다.
