@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Career Job Tracker</title>
-    <link rel="stylesheet" href="/styles.css">
+    <title>Career Radar | Job Search Dashboard</title>
+    <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
     <div class="app-shell">
-      <aside class="sidebar" aria-label="Target company navigation">
+      <aside class="sidebar" aria-label="타겟 기업 내비게이션">
         <div class="brand-block">
           <span class="brand-mark"></span>
           <div>
@@ -18,8 +18,8 @@
         </div>
         <nav id="sectionNav" class="section-nav"></nav>
         <div class="sidebar-note">
-          <strong>Live source</strong>
-          <span>공식 채용 사이트를 접속 시점마다 서버에서 조회합니다.</span>
+          <strong>Official sources</strong>
+          <span>공식 채용 사이트를 기준으로 공고 후보와 확인 링크를 정리합니다.</span>
         </div>
       </aside>
 
@@ -27,18 +27,18 @@
         <section class="topbar">
           <div class="hero-copy">
             <p class="eyebrow">Target company job openings</p>
-            <h2>내 타깃 기업 채용공고를 매번 새로 읽는 커리어 대시보드</h2>
-            <p class="hero-subtitle">공식 채용 사이트, 직무 적합도, 근무지역, 지원기간, 원문 링크를 한 화면에 정리합니다.</p>
+            <h2>타겟 기업 채용공고를 한 화면에서 추적하는 커리어 대시보드</h2>
+            <p class="hero-subtitle">공식 채용 링크, 직무 적합도, 근무지역, 지원 기간 후보, 원문 확인 링크를 기업 폴더 순서대로 정리합니다.</p>
           </div>
           <div class="actions">
             <button id="refreshButton" class="primary-button" type="button">새로고침</button>
-            <a class="ghost-button" href="/api/jobs?refresh=1" target="_blank" rel="noreferrer">Raw JSON</a>
+            <a class="ghost-button" href="./data/jobs_snapshot.json" target="_blank" rel="noreferrer">Raw JSON</a>
           </div>
         </section>
 
-        <section class="status-grid" aria-label="Summary">
+        <section class="status-grid" aria-label="요약 지표">
           <div class="metric">
-            <span>타깃 기업</span>
+            <span>타겟 기업</span>
             <strong id="companyCount">-</strong>
           </div>
           <div class="metric">
@@ -57,18 +57,18 @@
 
         <section class="source-banner">
           <div>
-            <strong>검증 가능한 업데이트</strong>
-            <span>각 기업 카드의 “참고한 공식 링크”와 공고별 “원문 보기”로 직접 더블체크할 수 있습니다.</span>
+            <strong>검증 가능한 채용 업데이트</strong>
+            <span>각 기업 카드에 참고한 공식 링크와 공고별 원문 보기 링크를 함께 표시합니다.</span>
           </div>
-          <a href="/api/companies" target="_blank" rel="noreferrer">공식 링크 목록 보기</a>
+          <a href="./data/companies.json" target="_blank" rel="noreferrer">공식 링크 목록 보기</a>
         </section>
 
-        <section class="toolbar" aria-label="Filters">
+        <section class="toolbar" aria-label="필터">
           <label class="search-box">
             <span>검색</span>
             <input id="searchInput" type="search" placeholder="기업, 직무, 지역, 키워드">
           </label>
-          <div class="filter-group" role="group" aria-label="Priority filter">
+          <div class="filter-group" role="group" aria-label="우선순위 필터">
             <button class="filter-chip active" data-priority="all" type="button">전체</button>
             <button class="filter-chip" data-priority="1차 집중" type="button">1차 집중</button>
             <button class="filter-chip" data-priority="2차 집중" type="button">2차 집중</button>
@@ -80,6 +80,6 @@
       </main>
     </div>
 
-    <script type="module" src="/app.js"></script>
+    <script type="module" src="./app.js"></script>
   </body>
 </html>
