@@ -1,0 +1,75 @@
+Career 폴더 파일/폴더 점검 메모
+점검일: 2026-07-07
+
+1. 최상위 구조
+
+- 00_target_companies.txt
+- 01_BigTech
+- 02_Consulting
+- 03_Insurance
+- 04_Adjacent_Targets
+
+2. 기존 기업 폴더
+
+01_BigTech
+- 01_NAVER_LABS
+- 02_NAVER_Cloud
+- 03_Kakao_Mobility
+- 04_Coupang
+- 05_Samsung_SDS
+
+02_Consulting
+- 01_BCG_Korea_BCG_X
+- 02_McKinsey_Korea_Quantum
+- 03_Deloitte_Korea_CSE
+- 04_EY_Hanyoung_CCaSS
+- 05_Samjong_KPMG_ESG
+
+03_Insurance
+- 01_Samsung_Fire_Marine
+- 02_DB_Insurance
+- 03_KB_Insurance
+- 04_Korean_Re
+- 05_Hyundai_Marine_Fire
+
+04_Adjacent_Targets
+- 01_POSCO_International
+- 02_Samsung_Global_Research
+- 03_Nongshim
+- 04_Kurly
+- 05_National_Assembly_Futures_Institute
+
+3. 추가한 신규 후보 폴더
+
+- 01_BigTech\06_Hanwha_Systems_SI_Analytics
+- 03_Insurance\06_NH_NongHyup_Property_Casualty
+- 04_Adjacent_Targets\06_Tridge
+- 04_Adjacent_Targets\07_CJ_CheilJedang
+
+4. 파일 상태
+
+- 기존 00_target_companies.txt는 정상 텍스트였고, 최신 CV/포트폴리오 기준으로 재작성했다.
+- 기존 기업별 지원정보_채용_연락처.md 파일 20개는 파일은 존재하지만 한글 본문이 깨진 상태로 읽힌다.
+- 따라서 실제 지원에 쓰는 핵심 10개 기업부터 UTF-8 기준으로 재작성하는 것이 필요하다.
+- 이번 작업에서는 기존 폴더/파일을 삭제하지 않고 보존했다. 대신 00_target_companies.txt에서 활성/후순위 상태를 새로 지정했다.
+
+5. 생성한 검토 보조 파일
+
+- 00_profile_portfolio_review.txt
+- 00_file_audit.txt
+- _portfolio_review\portfolio_contact_sheet.png
+- _portfolio_review\pages\page_01.png ~ page_43.png
+
+6. 추천 정리 순서
+
+1. NAVER LABS, POSCO International, Kakao Mobility, BCG X, Hanwha Systems/SI Analytics의 기업별 md를 먼저 재작성
+2. Tridge, Samsung Fire, McKinsey/QuantumBlack, NAVER Cloud, Korean Re 재작성
+3. 나머지 2차 집중 기업은 공고가 뜨는 시점에 재작성
+
+
+7. 2026-07-07 ?? ?? ??
+
+- ?? ??? 00_Strategy ??? ????.
+- ??? ??? 01_Target_Companies ?? 4? ???? ????.
+- ? ?? 02_Web_App ??? ????.
+- _portfolio_review ??? PNG ??? ?? ??????? ??? ??? ?? ?????? ????.

@@ -1,0 +1,86 @@
+타깃 기업 공식 채용 사이트 링크 모음
+업데이트일: 2026-07-07
+
+01_Target_Companies/01_GeoAI_SpatialAI
+
+1. NAVER LABS
+- https://recruit.naverlabs.com/
+
+2. NAVER Cloud
+- https://recruit.navercloudcorp.com/
+
+3. Kakao Mobility
+- https://kakaomobility.career.greetinghr.com/ko/home
+
+4. Coupang
+- https://www.coupang.jobs/
+
+5. Samsung SDS
+- https://www.samsungcareers.com/
+
+6. Hanwha Systems / SI Analytics
+- https://www.hanwhain.com/
+
+01_Target_Companies/02_Consulting_Strategy
+
+1. BCG Korea / BCG X
+- https://careers.bcg.com/global/en/locations/korea
+
+2. McKinsey Korea / QuantumBlack
+- https://www.mckinsey.com/careers/search-jobs
+
+3. Deloitte Korea CSE / Risk Advisory
+- https://join.deloitte.co.kr/
+
+4. EY Hanyoung CCaSS
+- https://www.ey.com/ko_kr/careers/job-search
+
+5. Samjong KPMG ESG
+- https://career.kr.kpmg.com/
+
+01_Target_Companies/03_Insurance_Risk
+
+1. Samsung Fire & Marine Insurance
+- https://www.samsungcareers.com/
+
+2. DB Insurance
+- https://dbgroup.recruiter.co.kr/career/home
+
+3. KB Insurance
+- https://kbinsure.recruiter.co.kr/app/jobnotice/list
+
+4. Korean Re
+- https://koreanre.recruiter.co.kr/career/home
+
+5. Hyundai Marine & Fire
+- https://hi.recruiter.co.kr/career/home
+
+6. NH NongHyup Property & Casualty
+- https://recruit.nonghyup.com/
+
+01_Target_Companies/04_Food_Agro_Strategy
+
+1. POSCO International
+- https://recruit.posco.com/
+
+2. Samsung Global Research
+- https://www.samsungsgr.com/careers.html?tab=2
+
+3. Nongshim
+- https://recruit.nongshim.com/main/index
+
+4. Kurly
+- https://kurly.career.greetinghr.com/ko/home
+
+5. National Assembly Futures Institute
+- https://www.nafi.re.kr/new/job.do
+
+6. Tridge
+- https://careers.tridge.com/
+
+7. CJ CheilJedang
+- https://recruit.cj.net/
+
+메모:
+- 일부 사이트는 JavaScript 렌더링, 로그인, 통합 검색 UI를 사용하므로 웹 앱의 자동 추출 결과가 제한될 수 있다.
+- 이 경우 앱의 "공식 채용 사이트" 버튼으로 직접 확인한다.

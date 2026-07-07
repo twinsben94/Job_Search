@@ -1,0 +1,77 @@
+최신 CV 및 포트폴리오 검토 메모
+검토일: 2026-07-07
+
+1. 확인한 원본
+
+- CV DOCX: C:\Users\twins\OneDrive\바탕 화면\Ryoungseob\블로그 업로드\00_About_Me\01_Curriculum Vitae\CV_Ryoungseob Kwon.docx
+- CV PDF: C:\Users\twins\OneDrive\바탕 화면\Ryoungseob\블로그 업로드\00_About_Me\01_Curriculum Vitae\CV_Ryoungseob Kwon.pdf
+- Portfolio PPTX: C:\Users\twins\OneDrive\바탕 화면\Ryoungseob\블로그 업로드\00_About_Me\02_Portfolio\Ryoungseob_Portfolio.pptx
+- Portfolio PDF: C:\Users\twins\OneDrive\바탕 화면\Ryoungseob\블로그 업로드\00_About_Me\02_Portfolio\Ryoungseob_Portfolio.pdf
+
+위 파일들은 읽기 전용으로만 확인했다. 수정은 이 Career 폴더 아래에서만 수행했다.
+
+2. CV 핵심 업데이트
+
+- 현재 신분: Seoul National University PhD Candidate, Landscape Architecture & Smart City Global Convergence
+- 핵심 문장: "Vision: Sense the Landscape, Design the World."
+- 연구 관심: Ecological Sensing, Artificial Intelligence, Thematic Mapping, Vegetation Phenology, Geospatial Analysis
+- SCIE/ESCI 주요 축:
+  - Madagascar 2017-2025 annual rice paddy maps, submitted
+  - early-season rice paddy mapping with gap-filling and field boundary delineation, submitted
+  - source-free unsupervised domain adaptation for soybean mapping, ISPRS 2026 co-author
+  - Argentina/Brazil maize mapping without ground reference data, JAG 2026
+  - LiDAR-camera fusion street tree carbon/growth mapping, RSE 2025
+  - city-scale individual tree mapping and species detection, ISPRS 2023
+- 1저자 특허:
+  - rice paddy early mapping
+  - diffusion-aided adversarial networks for rice mapping
+  - maize mapping with multi-source satellite imagery and ML
+  - tree species detection via bark background removal
+  - city-scale tree mapping with deep learning
+- 연구/산업 경험:
+  - Harvard Golden Lab visiting scholar, 2026
+  - AgroParisTech INRAE visiting scholar, 2024
+  - Tridge Data & Technology Department, 2022
+  - RDA crop monitoring projects, 2022-present
+- 기술 스택:
+  - Python, MATLAB
+  - QGIS, ArcGIS
+  - Google Earth Engine
+  - CloudCompare, REGISTER360
+
+3. 포트폴리오 구조 검토
+
+- 총 43장.
+- 전체 narrative는 Bachelor -> Master -> PhD -> Synthesis로 구성된다.
+- 반복 프레임은 Sense -> Interpret -> Map -> Decide -> Design.
+- 핵심 커리어 메시지는 "research outputs"가 아니라 "decision-ready landscape intelligence"로 전환되어 있음.
+
+강한 장표:
+- 3-4: 자기소개와 narrative framework가 명확함.
+- 12-15: 도시 수목 mapping 프로젝트가 Spatial AI/urban ecology 포지션에 좋음.
+- 17-28: maize/rice/Madagascar crop mapping이 food-system intelligence와 satellite AI에 강함.
+- 31-34: cross-disciplinary competency와 future direction이 기업 지원 메시지로 좋음.
+- 42: INRAE/Harvard 국제협력 증거가 신뢰도를 높임.
+
+수정 필요:
+- 29번 슬라이드가 미완성 상태다.
+  - 현재 텍스트: "Title.", "Sub-title.", "Jaeyoung - RDA crop monitoring system", "Daewon - corresponding Author", "Ukraine NIRv-based wheat yield loss estimation"
+  - 지원 전 반드시 완성하거나 삭제해야 한다.
+- 29번 이후 화면 하단 번호가 본문 슬라이드 번호와 어긋나 보일 수 있다. 최종 PDF 내보내기 전에 번호 체계를 점검한다.
+- 24번 슬라이드는 정보량이 많지만 지원용 포트폴리오에서는 유지 가능하다. 단, 면접용 축약본에서는 그림 수를 줄이는 편이 좋다.
+
+4. 커리어 전략상 결론
+
+가장 강한 포지션은 "GeoAI 연구자"보다 조금 더 넓은 "decision-ready landscape intelligence"이다.
+다만 기업 지원에서는 이 표현을 기업별로 번역해야 한다.
+
+- NAVER LABS/Kakao Mobility/Hanwha Systems: spatial AI, sensing, mapping, localization, geospatial intelligence
+- POSCO International/Tridge/CJ: food-system intelligence, global crop monitoring, supply-chain risk
+- BCG/McKinsey/Deloitte/EY/KPMG: climate risk, sustainability analytics, nature/food-system data strategy
+- Samsung Fire/Korean Re/NH NongHyup: exposure mapping, catastrophe/agricultural risk, underwriting/claims support
+
+5. 검토 산출물
+
+- 포트폴리오 전체 접촉시트: _portfolio_review\portfolio_contact_sheet.png
+- 포트폴리오 개별 렌더링: _portfolio_review\pages\page_01.png ~ page_43.png
+
