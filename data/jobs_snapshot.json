@@ -1,50 +1,197 @@
 {
-  "generatedAt": "2026-07-07T11:11:16.428Z",
+  "generatedAt": "2026-10-31T11:37:13.154Z",
   "mode": "github-pages-snapshot",
   "results": [
     {
       "id": "01_Target_Companies/01_GeoAI_SpatialAI/01_NAVER_LABS",
       "name": "NAVER LABS",
       "officialJobUrl": "https://recruit.naverlabs.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.310Z",
-      "elapsedMs": 118,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:00.232Z",
+      "elapsedMs": 1753,
+      "extractionNote": "8개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
+          "url": "https://recruit.naverlabs.com/#n",
+          "period": "2026.10.22 ~ 2026.11.01",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 100,
+          "source": "official"
+        },
+        {
+          "title": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
+          "url": "https://recruit.naverlabs.com/#n",
+          "period": "2026.10.26 ~ 2026.11.08",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 100,
+          "source": "official"
+        },
+        {
+          "title": "[네이버랩스] Robotics ML Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.30 ~ 2026.11.08",
+          "url": "https://recruit.naverlabs.com/#n",
+          "period": "2026.10.30 ~ 2026.11.08",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 100,
+          "source": "official"
+        },
+        {
+          "title": "[네이버랩스] Panoptic Segmentation Research Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.26 ~ 2026.11.08",
+          "url": "https://recruit.naverlabs.com/#n",
+          "period": "2026.10.26 ~ 2026.11.08",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 91,
+          "source": "official"
+        },
+        {
+          "title": "[네이버랩스] 상시 인재풀 모집 부서 Tech 모집 분야 공통 외 모집 경력 무관 근로 조건 정규 모집 기간 상시모집",
+          "url": "https://recruit.naverlabs.com/#n",
+          "period": "상시",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 91,
+          "source": "official"
+        },
+        {
+          "title": "'; jobList += ' '+annoSubject+' '; jobList += ' '; jobList += ' 모집 부서 '; if(classCdCnt > 1){ if(\"ko\" == \"ko\"){ classCdNm = classCdNm +' 외'; }else{ classCdNm += ",
+          "url": "https://recruit.naverlabs.com/#n",
+          "period": "상시모집",
+          "location": "분당/정자",
+          "status": "마감 포함",
+          "relevance": 67,
+          "source": "official"
+        },
+        {
+          "title": "CAREERS",
+          "url": "https://recruit.naverlabs.com/rcrt/list.do",
+          "period": "",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 55,
+          "source": "official"
+        },
+        {
+          "title": "Jobs",
+          "url": "https://recruit.naverlabs.com/rcrt/list.do",
+          "period": "",
+          "location": "분당/정자",
+          "status": "확인 필요",
+          "relevance": 55,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/04_Food_Agro_Strategy/01_POSCO_International",
       "name": "POSCO International",
       "officialJobUrl": "https://recruit.posco.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.400Z",
-      "elapsedMs": 13,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:03.736Z",
+      "elapsedMs": 634,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/01_GeoAI_SpatialAI/03_Kakao_Mobility",
       "name": "Kakao Mobility",
       "officialJobUrl": "https://kakaomobility.career.greetinghr.com/ko/home",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.313Z",
-      "elapsedMs": 23,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:00.516Z",
+      "elapsedMs": 1854,
+      "extractionNote": "4개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "진행 중 공고",
+          "url": "https://kakaomobility.career.greetinghr.com/ko/guide",
+          "period": "",
+          "location": "판교",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "공고 보러가기 ➔",
+          "url": "https://kakaomobility.career.greetinghr.com/ko/guide",
+          "period": "",
+          "location": "판교",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "성장지원 더 보러가기 ➔",
+          "url": "https://kakaomobility.career.greetinghr.com/ko/culture",
+          "period": "",
+          "location": "판교",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "영입 공고 보러가기 →",
+          "url": "https://kakaomobility.career.greetinghr.com/ko/guide#5089e105-e7df-45e0-9802-5509c0db0b0c",
+          "period": "",
+          "location": "판교",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/02_Consulting_Strategy/01_BCG_Korea_BCG_X",
       "name": "BCG Korea / BCG X",
       "officialJobUrl": "https://careers.bcg.com/global/en/locations/korea",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.363Z",
-      "elapsedMs": 53,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:01.412Z",
+      "elapsedMs": 1360,
+      "extractionNote": "4개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "Personal Data Request",
+          "url": "https://careers.bcg.com/global/en/locations/footer-personalDataRequestPathLinkUrl",
+          "period": "",
+          "location": "서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "Explore Open Roles",
+          "url": "https://careers.bcg.com/global/en/search-results?rk=page-targeted-jobs-page1498-prod-DLmhE336&amp;sortBy=Most%20relevant",
+          "period": "",
+          "location": "Korea",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "See Open Roles",
+          "url": "javascript:void(0)",
+          "period": "",
+          "location": "서울",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Careers",
+          "url": "https://careers.bcg.com/global/en/locations/footer-careersPathLinkUrl",
+          "period": "",
+          "location": "서울",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/01_GeoAI_SpatialAI/06_Hanwha_Systems_SI_Analytics",
@@ -52,8 +199,8 @@
       "officialJobUrl": "https://www.hanwhain.com/",
       "ok": false,
       "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.349Z",
-      "elapsedMs": 41,
+      "fetchedAt": "2026-10-31T11:37:09.656Z",
+      "elapsedMs": 10268,
       "extractionNote": "자동 조회 실패: fetch failed",
       "jobs": []
     },
@@ -61,23 +208,169 @@
       "id": "01_Target_Companies/04_Food_Agro_Strategy/06_Tridge",
       "name": "Tridge",
       "officialJobUrl": "https://careers.tridge.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.428Z",
-      "elapsedMs": 27,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:09.168Z",
+      "elapsedMs": 2424,
+      "extractionNote": "6개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "Careers",
+          "url": "https://careers.tridge.com/",
+          "period": "",
+          "location": "서울/글로벌",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Job Categories",
+          "url": "https://careers.tridge.com/job-categories",
+          "period": "",
+          "location": "서울/글로벌",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "All Jobs",
+          "url": "https://careers.tridge.com/jobs",
+          "period": "",
+          "location": "서울/글로벌",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Explore Jobs",
+          "url": "https://careers.tridge.com/jobs",
+          "period": "",
+          "location": "서울/글로벌",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Career at Tridge",
+          "url": "https://careers.tridge.com/",
+          "period": "",
+          "location": "서울/글로벌",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Open Roles",
+          "url": "https://careers.tridge.com/jobs",
+          "period": "",
+          "location": "서울/글로벌",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/03_Insurance_Risk/01_Samsung_Fire_Marine",
       "name": "Samsung Fire & Marine Insurance",
       "officialJobUrl": "https://www.samsungcareers.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.383Z",
-      "elapsedMs": 12,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:01.327Z",
+      "elapsedMs": 259,
+      "extractionNote": "10개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "삼성화재",
+          "url": "https://www.samsungcareers.com/subsid/detail/E21",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "금융 보험/카드/증권/자산운용 업계에서 제공하는 금융 서비스와 관련된 업무를 수행합니다.",
+          "url": "https://www.samsungcareers.com/insight/find?ty=J07",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "채용공고",
+          "url": "https://www.samsungcareers.com/hr/",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "지원 가이드",
+          "url": "https://www.samsungcareers.com/guide/process",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "나의 지원서",
+          "url": "https://www.samsungcareers.com/#none",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "채용 프로세스",
+          "url": "https://www.samsungcareers.com/guide/process",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "채용 공정성안내",
+          "url": "https://www.samsungcareers.com/guide/fairness",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "채용서류반환신청",
+          "url": "https://www.samsungcareers.com/guide/return",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "나의 지원서 바로가기",
+          "url": "https://www.samsungcareers.com/myform/",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "공고 목록",
+          "url": "https://www.samsungcareers.com/hr/",
+          "period": "",
+          "location": "서초/강남",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/02_Consulting_Strategy/02_McKinsey_Korea_Quantum",
@@ -85,75 +378,312 @@
       "officialJobUrl": "https://www.mckinsey.com/careers/search-jobs",
       "ok": false,
       "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.371Z",
-      "elapsedMs": 58,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "fetchedAt": "2026-10-31T11:37:12.234Z",
+      "elapsedMs": 12002,
+      "extractionNote": "자동 조회 실패: 시간 초과",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/01_GeoAI_SpatialAI/02_NAVER_Cloud",
       "name": "NAVER Cloud",
       "officialJobUrl": "https://recruit.navercloudcorp.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.306Z",
-      "elapsedMs": 20,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:00.052Z",
+      "elapsedMs": 1392,
+      "extractionNote": "10개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "NAVER Cloud Careers",
+          "url": "https://recruit.navercloudcorp.com/main.do",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "Tech",
+          "url": "https://recruit.navercloudcorp.com/cnts/tech",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "Tech 다가오는 미래를 구현합니다",
+          "url": "https://recruit.navercloudcorp.com/cnts/tech",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "빠른 성장 속도를 매일 체감하고 있습니다 Service Platform Dev",
+          "url": "https://recruit.navercloudcorp.com/cnts/people_detail?id=14",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "© NAVER Cloud Corp.",
+          "url": "https://www.navercloudcorp.com/",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "NAVER Cloud Corp.",
+          "url": "https://www.navercloudcorp.com/",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 66,
+          "source": "official"
+        },
+        {
+          "title": "Jobs",
+          "url": "https://recruit.navercloudcorp.com/rcrt/list.do",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Financial Wellbeing 회사의 미래가치와 성과를 함께 나누고, 생활의 안정을 지원합니다.",
+          "url": "https://recruit.navercloudcorp.com/cnts/benefits#wellbeing",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Work Tools 최고의 퍼포먼스를 위해 최적의 장비를 지원합니다.",
+          "url": "https://recruit.navercloudcorp.com/cnts/benefits#worktools",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        },
+        {
+          "title": "Meal & Snack 우리를 움직이는 에너지원이자, 동료들과의 대화를 이끌어 내는 음식을 풍성하게 제공합니다.",
+          "url": "https://recruit.navercloudcorp.com/cnts/benefits#snack",
+          "period": "",
+          "location": "분당/서울",
+          "status": "확인 필요",
+          "relevance": 54,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/03_Insurance_Risk/04_Korean_Re",
       "name": "Korean Re",
       "officialJobUrl": "https://koreanre.recruiter.co.kr/career/home",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.395Z",
-      "elapsedMs": 13,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:02.778Z",
+      "elapsedMs": 1361,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/01_GeoAI_SpatialAI/05_Samsung_SDS",
       "name": "Samsung SDS",
       "officialJobUrl": "https://www.samsungcareers.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.382Z",
-      "elapsedMs": 91,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:00.298Z",
+      "elapsedMs": 1634,
+      "extractionNote": "10개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "삼성SDS",
+          "url": "https://www.samsungcareers.com/subsid/detail/C60",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "연구/개발(SW) 프로그래밍 및 SW 관련 지식을 활용하여 제품과 서비스 관련 시스템을 개발/운영합니다.",
+          "url": "https://www.samsungcareers.com/insight/find?ty=J02",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "채용공고",
+          "url": "https://www.samsungcareers.com/hr/",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "지원 가이드",
+          "url": "https://www.samsungcareers.com/guide/process",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "나의 지원서",
+          "url": "https://www.samsungcareers.com/#none",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "채용 프로세스",
+          "url": "https://www.samsungcareers.com/guide/process",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "채용 공정성안내",
+          "url": "https://www.samsungcareers.com/guide/fairness",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "채용서류반환신청",
+          "url": "https://www.samsungcareers.com/guide/return",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "나의 지원서 바로가기",
+          "url": "https://www.samsungcareers.com/myform/",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "공고 목록",
+          "url": "https://www.samsungcareers.com/hr/",
+          "period": "",
+          "location": "잠실/수도권",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/04_Food_Agro_Strategy/07_CJ_CheilJedang",
       "name": "CJ CheilJedang",
       "officialJobUrl": "https://recruit.cj.net/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.424Z",
-      "elapsedMs": 20,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:10.197Z",
+      "elapsedMs": 1029,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/04_Food_Agro_Strategy/02_Samsung_Global_Research",
       "name": "Samsung Global Research",
       "officialJobUrl": "https://www.samsungsgr.com/careers.html?tab=2",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.422Z",
-      "elapsedMs": 29,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:05.476Z",
+      "elapsedMs": 1740,
+      "extractionNote": "6개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "전문가 채용",
+          "url": "https://www.samsungsgr.com/careers.html?tab=1",
+          "period": "상시",
+          "location": "서울/강남",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "상시 채용",
+          "url": "https://www.samsungsgr.com/careers.html?tab=2",
+          "period": "상시",
+          "location": "서울/강남",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "CAREERS",
+          "url": "https://www.samsungsgr.com/main_careers.html",
+          "period": "상시",
+          "location": "서울/강남",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "CAREERS",
+          "url": "https://www.samsungsgr.com/careers.html",
+          "period": "",
+          "location": "서울/강남",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "http://www.samsungcareers.com",
+          "url": "http://www.samsungcareers.com/",
+          "period": "",
+          "location": "서울/강남",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "email",
+          "url": "javascript:;",
+          "period": "",
+          "location": "서울/강남",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/02_Consulting_Strategy/03_Deloitte_Korea_CSE",
       "name": "Deloitte Korea CSE / Risk Advisory",
       "officialJobUrl": "https://join.deloitte.co.kr/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.373Z",
-      "elapsedMs": 27,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:01.067Z",
+      "elapsedMs": 770,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
@@ -162,8 +692,8 @@
       "officialJobUrl": "https://dbgroup.recruiter.co.kr/career/home",
       "ok": false,
       "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.387Z",
-      "elapsedMs": 13,
+      "fetchedAt": "2026-10-31T11:37:02.121Z",
+      "elapsedMs": 794,
       "extractionNote": "자동 조회 실패: fetch failed",
       "jobs": []
     },
@@ -171,23 +701,205 @@
       "id": "01_Target_Companies/02_Consulting_Strategy/04_EY_Hanyoung_CCaSS",
       "name": "EY Hanyoung CCaSS",
       "officialJobUrl": "https://www.ey.com/ko_kr/careers/job-search",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.379Z",
-      "elapsedMs": 30,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:00.674Z",
+      "elapsedMs": 158,
+      "extractionNote": "10개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "기후변화 및 지속가능경영 서비스(CCaSS: Climate Change and Sustainability Services)",
+          "url": "https://www.ey.com/ko_kr/services/climate-change-sustainability-services",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 89,
+          "source": "official"
+        },
+        {
+          "title": "지속가능성(Sustainability)",
+          "url": "https://www.ey.com/ko_kr/services/sustainability",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "EY 지속가능성(Sustainability)",
+          "url": "https://www.ey.com/ko_kr/services/sustainability/services",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "EY 한국 비즈니스 네트워크(Korea Business Network)",
+          "url": "https://www.ey.com/ko_kr/services/korea-business-network",
+          "period": "",
+          "location": "Korea",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "EY Logo .d, .e { fill: none; } .d, .f, .g { stroke-width: 0px; } .e { stroke: #fff; stroke-miterlimit: 10; } .f { fill: #ffe600; } .h { clip-path: url(#b); } .i",
+          "url": "https://www.ey.com/ko_kr",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "AI 인사이트",
+          "url": "https://www.ey.com/ko_kr/services/ai",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "AI 기반 M&A 기술 솔루션",
+          "url": "https://www.ey.com/ko_kr/services/strategy-transactions/connected-capital-technologies",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "인력 분석 (Workforce Analytics)",
+          "url": "https://www.ey.com/ko_kr/services/workforce/workforce-analytics",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "ey.ai The Reimagination Engine",
+          "url": "https://www.ey.com/ko_kr/services/ai/platform",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        },
+        {
+          "title": "Careers",
+          "url": "https://www.ey.com/ko_kr/careers",
+          "period": "",
+          "location": "서울/여의도",
+          "status": "확인 필요",
+          "relevance": 53,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/04_Food_Agro_Strategy/03_Nongshim",
       "name": "Nongshim",
       "officialJobUrl": "https://recruit.nongshim.com/main/index",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.404Z",
-      "elapsedMs": 9,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:06.362Z",
+      "elapsedMs": 2433,
+      "extractionNote": "10개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "농심그룹 소개",
+          "url": "https://www.nongshim.com/introduce/overview/index",
+          "period": "",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심태경",
+          "url": "https://recruit.nongshim.com/member/status/list_tae",
+          "period": "",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심엔지니어링",
+          "url": "https://recruit.nongshim.com/member/status/list_eng",
+          "period": "",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심 (주)농심 전문대졸 신입사원 채용",
+          "url": "https://recruit.nongshim.com/recruit/notice/view?companyCd=01&useYear=2026&useSeq=26",
+          "period": "2026.10.23~2026.11.09",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심 (주)농심 대졸 신입사원 채용",
+          "url": "https://recruit.nongshim.com/recruit/notice/view?companyCd=01&useYear=2026&useSeq=25",
+          "period": "2026.10.23~2026.11.09",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심 2026년 (주)농심 경력직 채용",
+          "url": "https://recruit.nongshim.com/recruit/notice/view?companyCd=01&useYear=2026&useSeq=24",
+          "period": "2026.10.15~2026.11.02",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심 (주)농심미분 생산관리직 신입/경력사원 채용",
+          "url": "https://recruit.nongshim.com/recruit/notice/view?companyCd=01&useYear=2026&useSeq=23",
+          "period": "2026.10.12~2026.10.23",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심태경 농심태경 안성공장 공무직 신입사원 채용",
+          "url": "https://recruit.nongshim.com/recruit/notice/view?companyCd=04&useYear=2026&useSeq=7",
+          "period": "2026.10.12~2026.10.26",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "율촌화학 2026년 농심그룹 율촌화학 신입/경력 채용",
+          "url": "https://recruit.nongshim.com/recruit/notice/view?companyCd=03&useYear=2026&useSeq=1",
+          "period": "2026.09.19~2026.10.01",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        },
+        {
+          "title": "농심, 대학수학능력시험 앞두고 ‘너구링 응원 이벤트’ 진행 2026.10.29",
+          "url": "https://www.nongshim.com/promotion/notice/press_view?groupCode=003&amp;groupId=1025",
+          "period": "",
+          "location": "서울/동작, 공고별 확인",
+          "status": "확인 필요",
+          "relevance": 65,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/03_Insurance_Risk/06_NH_NongHyup_Property_Casualty",
@@ -195,8 +907,8 @@
       "officialJobUrl": "https://recruit.nonghyup.com/",
       "ok": false,
       "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.401Z",
-      "elapsedMs": 18,
+      "fetchedAt": "2026-10-31T11:37:13.154Z",
+      "elapsedMs": 10376,
       "extractionNote": "자동 조회 실패: fetch failed",
       "jobs": []
     },
@@ -204,22 +916,22 @@
       "id": "01_Target_Companies/02_Consulting_Strategy/05_Samjong_KPMG_ESG",
       "name": "Samjong KPMG ESG",
       "officialJobUrl": "https://career.kr.kpmg.com/",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.382Z",
-      "elapsedMs": 19,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:01.417Z",
+      "elapsedMs": 743,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/03_Insurance_Risk/03_KB_Insurance",
       "name": "KB Insurance",
       "officialJobUrl": "https://kbinsure.recruiter.co.kr/app/jobnotice/list",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.393Z",
-      "elapsedMs": 14,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:03.929Z",
+      "elapsedMs": 2517,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
@@ -227,43 +939,71 @@
       "name": "Coupang",
       "officialJobUrl": "https://www.coupang.jobs/",
       "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.347Z",
-      "elapsedMs": 57,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "statusCode": 403,
+      "fetchedAt": "2026-10-31T11:36:59.388Z",
+      "elapsedMs": 725,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/04_Food_Agro_Strategy/04_Kurly",
       "name": "Kurly",
       "officialJobUrl": "https://kurly.career.greetinghr.com/ko/home",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.416Z",
-      "elapsedMs": 18,
-      "extractionNote": "자동 조회 실패: fetch failed",
-      "jobs": []
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:06.744Z",
+      "elapsedMs": 1268,
+      "extractionNote": "3개 후보를 공식 페이지에서 감지했습니다.",
+      "jobs": [
+        {
+          "title": "Jobs",
+          "url": "https://kurly.career.greetinghr.com/ko/recruiting",
+          "period": "",
+          "location": "서울",
+          "status": "확인 필요",
+          "relevance": 52,
+          "source": "official"
+        },
+        {
+          "title": "채용 공고 보러가기!",
+          "url": "https://kurly.career.greetinghr.com/ko/recruiting",
+          "period": "",
+          "location": "서울",
+          "status": "확인 필요",
+          "relevance": 52,
+          "source": "official"
+        },
+        {
+          "title": "[email&#160;protected]",
+          "url": "https://kurly.career.greetinghr.com/cdn-cgi/l/email-protection",
+          "period": "",
+          "location": "서울",
+          "status": "확인 필요",
+          "relevance": 52,
+          "source": "official"
+        }
+      ]
     },
     {
       "id": "01_Target_Companies/03_Insurance_Risk/05_Hyundai_Marine_Fire",
       "name": "Hyundai Marine & Fire",
       "officialJobUrl": "https://hi.recruiter.co.kr/career/home",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.398Z",
-      "elapsedMs": 16,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:03.102Z",
+      "elapsedMs": 981,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     },
     {
       "id": "01_Target_Companies/04_Food_Agro_Strategy/05_National_Assembly_Futures_Institute",
       "name": "National Assembly Futures Institute",
       "officialJobUrl": "https://www.nafi.re.kr/new/job.do",
-      "ok": false,
-      "statusCode": 0,
-      "fetchedAt": "2026-07-07T11:11:16.422Z",
-      "elapsedMs": 22,
-      "extractionNote": "자동 조회 실패: fetch failed",
+      "ok": true,
+      "statusCode": 200,
+      "fetchedAt": "2026-10-31T11:37:09.299Z",
+      "elapsedMs": 2937,
+      "extractionNote": "자동 추출 가능한 공고가 없거나 JavaScript 렌더링 사이트입니다.",
       "jobs": []
     }
   ]
